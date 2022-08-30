@@ -8,8 +8,6 @@
        padding: 0;
        border-top:solid 0.3px #000000;
        
-                        
-        
       }
    
    .footer_content{
@@ -31,32 +29,5 @@
 
    }
      
-    #menu_footer  {
-       list-style: none;
-       color: rgb(255, 255, 255);
-       margin-right: 0px;
-       padding-top: 15px;
-       
-       
-      } 
-   
-   #menu_footer li{
-       display:inline;
-       color: rgb(255, 255, 255);
-       }
-   
-   
-   #menu_footer li a{
-       text-decoration: none;
-       color: rgb(255, 255, 255);
-       padding-left: 20px;
-       font-size: 16px;
-   }  
-   
-   #menu_footer li a:hover{
-       color: rgb(125, 125, 145);
-       
-               
-   }  
        
    

@@ -42,7 +42,7 @@ const post = async (submitData) => {
  
   return ( 
   <div className="container_page_protected"> 
-  <h2>Cadastre um amiguinho para adoção:</h2>
+  <h2>Cadastre um amiguinho:</h2>
 
   
     <form id="form_pets"  onSubmit={ (submitData)=> post(submitData)}>

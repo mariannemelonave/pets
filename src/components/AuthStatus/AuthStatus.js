@@ -12,7 +12,7 @@ const AuthStatus = () => {
     return <p></p>;
   }
   return (
-    <p className="wellcome">
+    <p className="bemvindo">
       Olá {auth.user.name}!{" "} 
       <button className="button_out"
         onClick={() => {

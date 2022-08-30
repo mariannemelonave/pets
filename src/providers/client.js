@@ -15,7 +15,7 @@ instance.interceptors.request.use((config) => {
     ...config,
     headers: {
       ...config.headers,
-      Authorization: user ? `Bearer ${JSON.parse(user).token}` : "",
+      Authorization: user ? `${JSON.parse(user).token}` : "",
     },
   };
 });
