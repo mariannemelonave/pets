@@ -1,1 +1,1 @@
-# pets
+Em uma aplicação web é normal vermos uma série de formulários para cadastro derecursos. Esses recursos geralmente podem ser criados, visualizados, editados e excluídos.De uma forma geral, são chamados de CRUD (Create, Read, Update, Delete). O quevamos implementar é uma aplicação onde o usuário final pode ver uma lista de pets, masdeverá logar na aplicação caso queira cadastrar um novo pet.
